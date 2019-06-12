@@ -1,5 +1,4 @@
 # Web-Scraping-Projects
-- These are Web Scraping Projects I have made
 - Every Folder has a CSV which contains the output of the Script
 # Technologies I have Used for Web Scraping:
 - Scrapy
